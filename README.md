@@ -1,5 +1,5 @@
 # Calendar
-A responsive calendar with sticky notes
+A responsive calendar with "sticky" notes.
 
 
 ## Built With
